@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+body {
+    background-color: black;
+}
+
+h2 {
+    color: brown;
+    background-color: blue;
+    text-align: center;
+}
+
+.party {
+    color: aqua;
+    text-align: center;
+}
+
+.spider-man {
+    position: absolute;
+    left: 80%;
+}
+
+.dancer {
+    justify-content: space-between;
+    position: absolute;
+    top: 50%;
+}
+
+p {
+    border: 2px solid blue;
+    align-items: right;
+    color: white;
+    font-size: xx-large;    
+    text-align: center;
+    
+}
+
+.img_float {
+    float: left;
+}
+
+.container {
+    position: relative;
+    width: 50%;
+}
+
+.btn {
+    position: relative;
+    left: 50%
+    
+}
+
+
+  
